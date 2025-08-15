@@ -1,17 +1,17 @@
-# 📘 M7BootStrap Use Policy
+# 📘 PageCement Use Policy
 
-This document outlines how you may use M7BootStrap under the **Moderate Team License (MTL-10)** and what is expected of you as a user.
+This document outlines how you may use PageCement under the **Moderate Team License (MTL-10)** and what is expected of you as a user.
 
 ---
 
 ## ✅ Free Use — What You Can Do
 
-You may use M7BootStrap **for free** if you fall under any of the following categories:
+You may use PageCement **for free** if you fall under any of the following categories:
 
 * **Individuals** using it for personal projects, learning, or experimentation
 * **Academic institutions or researchers** using it for teaching, papers, or labs
 * **Nonprofits and NGOs** using it internally without revenue generation
-* **Startups or companies** with **10 or fewer users** of M7BootStrap internally
+* **Startups or companies** with **10 or fewer users** of PageCement internally
 
   * This includes development, deployment, and operational use
 
@@ -21,11 +21,11 @@ There is **no cost, license key, or approval required** for these use cases.
 
 ## 🚫 Commercial Restrictions
 
-M7BootStrap **may not be used** in the following ways without a paid commercial license:
+PageCement **may not be used** in the following ways without a paid commercial license:
 
 * As part of a **commercial product** that is sold, licensed, or monetized
 * Embedded within a platform, device, or SaaS product offered to customers
-* Internally at companies with **more than 10 users** working with M7BootStrap
+* Internally at companies with **more than 10 users** working with PageCement
 * As a hosted service, API, or backend component for commercial delivery
 * In resale, sublicensing, or redistribution as part of paid offerings
 
@@ -33,7 +33,7 @@ M7BootStrap **may not be used** in the following ways without a paid commercial 
 
 ## 🔒 Definitions
 
-* **User**: Anyone who installs, configures, modifies, integrates, or interacts with M7BootStrap as part of their role.
+* **User**: Anyone who installs, configures, modifies, integrates, or interacts with PageCement as part of their role.
 * **Commercial use**: Use in a context intended for revenue generation or business advantage (e.g. SaaS, enterprise ops, service platforms).
 
 ---
